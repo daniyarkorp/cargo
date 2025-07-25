@@ -1,16 +1,20 @@
-# cargo
+# 📦 Cargo App
 
-A new Flutter project.
+Приложение для управления грузами на складе в Китае. Верстка адаптирована под планшеты. Используется Flutter.
 
-## Getting Started
+## 🧰 Функциональность (только UI)
+- Боковое меню с логотипом и навигацией
+- Основной экран с таблицей грузов
+- Поиск, пагинация, профиль администратора
+- Моковые данные, без подключения к API
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Быстрый старт
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 1. Клонировать репозиторий
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/username/warehouse_app.git
+cd warehouse_app
+
