@@ -15,6 +15,6 @@
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/username/warehouse_app.git
-cd warehouse_app
+git clone https://github.com/daniyarkorp/cargo.git
+cd cargo
 
